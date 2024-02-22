@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; URL=https://example.com/new-page">
+    <title>Redirecting...</title>
+</head>
+<body>
+    <!-- Optional: You can provide a message to display before redirection -->
+    <p>If you are not redirected automatically, <a href="https://example.com/new-page">click here</a>.</p>
+</body>
+</html>
